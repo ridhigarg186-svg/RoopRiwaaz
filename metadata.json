@@ -1,0 +1,6 @@
+{
+  "name": "RoopRiwaaz — Luxury Indian Sarees & Jewellery",
+  "description": "Premium Indian ethnic fashion brand selling exquisite handloom sarees, bridal collections, and heritage jewellery. Wear Your Tradition, Define Your Elegance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
